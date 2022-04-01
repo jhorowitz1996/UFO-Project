@@ -14,16 +14,18 @@ https://mappa.js.org/
 Dataset: 
 https://www.kaggle.com/c/suspicious-objects-what-is-that-on-the-sky
 
-<img style="float: middle;" img width="468" alt="image" src="https://user-images.githubusercontent.com/66505479/161343140-c84c082e-95ed-48c8-bfc5-9c4cc375f3d9.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/66505479/161345230-b3fda4f5-38e1-45b2-89fd-9599d0626143.png">
 
 I used different cdns and libraries from the tutorial below. I’m proud of this funky little visualization because it’s a fair assessment of where I am with JS at the moment. I’m grateful for this independent study course to dive into JS wholeheartedly this semester and to have been able to sit down and benefit from Prof. Garcia del Castillo y Lopez's expertise throughout the Independent Study process. 
 
-### Set up of HTML document ####
+### Set up HTML Document ####
 
 First, I set up the HTML document with a header at the center point of the screen by centering a div and turning the text to lime-green (along with the font settings). Once I got the text to align I moved down to the source code libraries this was drawing from. At first, I was going to use the P5 library but I found that P5 has limited support for sprite-sheets and no tween engine. Essentially, I needed to use the Green Socks (gsap) tween engine to allow the ufo objects I was using to move effectively from point A to point B. The Createjs library that I drew on (line 35) let me use sprite sheets and has a bunch of classes. Per your recommendation, I did make use of P5 for this. In this case, P5 was used for parsing the csv file with the UFO sightings geographic dataset. Note: I did initially use P5 but it had a somewhat convoluted function so I couldn’t call it in a loop for the animation piece. At the end there, Line 36 allowed me to sync the HTML file up with the main.js file needed. 
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/66505479/161341443-c67565b8-5cfe-47c1-9089-14d01b359866.png">
 
+
+
+### Full Process Detailed ###
 
 To start, I set the sizing dimensions up on the screen. I learned I would also need to create a “stage” in drawing from the CreateJS library. I learned the system variable frameRate contains the number of frames per second. The EventListener receives the info about the framerate which informs how many “ticks” per second. 
 
