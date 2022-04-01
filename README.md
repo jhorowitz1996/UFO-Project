@@ -92,5 +92,3 @@ I hosted the visualization through a local http server et voi la! An out-of-this
 
 
 Side note here, I am not a big extraterrestrial enthusiast I just wanted to find a fun geographic dataset to visualize. It was either aliens or avocado prices for fun/cool geographic dataset and the alien one felt like a better fit because I could whip out my animation skills in Blender for the flying saucers (together with the Green Socks library). 
-
-![image](https://user-images.githubusercontent.com/66505479/161339355-36f87106-09b5-4119-97bd-e48b5ef3a76b.png)
