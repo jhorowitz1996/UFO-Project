@@ -1,4 +1,4 @@
-# Ufo Sightings with JS 👽🛸👩🏻‍💻
+# UFO Sightings with JS 👽🛸👩🏻‍💻
 
 ## Harvard Graduate School of Deisgn (GSD) Indpendent Study: ADV 9201 ##
 
