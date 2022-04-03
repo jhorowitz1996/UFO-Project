@@ -16,7 +16,7 @@ https://www.kaggle.com/c/suspicious-objects-what-is-that-on-the-sky
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/66505479/161345230-b3fda4f5-38e1-45b2-89fd-9599d0626143.png">
 
-I used different cdns and libraries from the tutorial below. I’m proud of this funky little visualization because it’s a fair assessment of where I am with JS at the moment. I’m grateful for this independent study course to dive into JS wholeheartedly this semester and to have been able to sit down and benefit from Prof. Garcia del Castillo y Lopez's expertise throughout the Independent Study process. 
+I used different cdns and libraries for the project below. I’m proud of this funky little visualization because it’s a fair assessment of where I am with JS at the moment. I’m grateful for this independent study course to dive into JS wholeheartedly this semester and to have been able to sit down and benefit from Prof. Garcia del Castillo y Lopez's expertise throughout the Independent Study process. 
 
 ### Set up HTML Document ####
 
@@ -64,7 +64,7 @@ Here I’m setting up the interval to run once and assigning the canvas I create
 
 
 
-I then got the data for latitutde and longitude in the csv and loaded that up (in the same manner in which the Mappa tutorial did). Then I needed to create multiple instances of the sprites in a single sprite sheet. Here’s where Create JS turned out to be a great library mostly because it allows you to generate a sprite sheet with your desired pngs in a nice row to use built-in. I then set the position of the x and y position of the sprite through its animated movement. 
+I then got the data for latitutde and longitude in the csv and loaded that up. Then I needed to create multiple instances of the sprites in a single sprite sheet. Here’s where Create JS turned out to be a great library mostly because it allows you to generate a sprite sheet with your desired pngs in a nice row to use built-in. I then set the position of the x and y position of the sprite through its animated movement. 
 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/66505479/161342704-0f51956d-bd61-476c-a76d-0fef78104176.png">
