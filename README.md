@@ -93,4 +93,4 @@ I then removed the ufo animations to save memory and replaced it with a green ci
 I hosted the visualization through a local http server et voi la! An out-of-this-world JS map visualization. 
 
 
-Side note here, I am not a big extraterrestrial enthusiast I just wanted to find a fun geographic dataset to visualize. It was either aliens or avocado prices for fun/cool geographic dataset and the alien one felt like a better fit because I could whip out my animation skills in Blender for the flying saucers (together with the Green Socks library). 
+Side note here, I am not a big extraterrestrial enthusiast I just wanted to find a fun geographic dataset to visualize. It was either aliens or avocado prices for fun/cool geographic dataset and the alien one felt like a better fit because I could whip out my animation skills in Blender for the flying saucers (together with the Green Sock library). 
